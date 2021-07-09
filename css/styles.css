@@ -370,6 +370,6 @@ ul.navAncho {
     }
 }
 
-header  li::before {
+#navAbajo ul li::before {
     content: url("../img/huella.png");
 }
