@@ -371,5 +371,5 @@ ul.navAncho {
 }
 
 header  li::before {
-    content: url('/img/huella.png');
+    content: url("../img/huella.png");
 }
